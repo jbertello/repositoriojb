@@ -1,0 +1,26 @@
+body{
+  font-family: 'Jaco', sans-serif;
+}
+
+.divPerfil { 
+  position: relative; 
+} 
+.imgPerfil { 
+  position: absolute; 
+  top: 70%; 
+  left: 2%;
+  width: 15%; 
+} 
+
+.imgPerfil a{
+  position: absolute; 
+  top: 85%; 
+  left: 100%;
+}
+
+.imgJB_Exp{
+  width: 55%;
+  height: 50%;
+  margin-top: 10%;
+  margin-left: 25%;
+}
